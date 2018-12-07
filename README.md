@@ -1,6 +1,7 @@
 # Usage
 
 appsettings.json
+if the consul key is App1/Server1/Config, then the KeyStoreFolder is App1/Server1
 
 ```
 {
