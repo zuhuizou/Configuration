@@ -1,13 +1,12 @@
 # Usage
 
 appsettings.json
-if the consul key is App1/Server1/Config, then the KeyStoreFolder is App1/Server1
 
 ```
 {
   "ConsulConfig": {
     "Urls": [ "http://consul.config.com"],
-    "KeyStoreFolder": "App1"
+    "KeyStoreFolder": "App1"//if the consul key is App1/Server1/Config, then the KeyStoreFolder is App1/Server1
   }
 }
 ```
